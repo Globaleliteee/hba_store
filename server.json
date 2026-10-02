@@ -18,7 +18,7 @@
     },
     {
       "name": "BTC ColdWallet",
-      "type": "GAME",
+      "type": "game",
       "cover_image": "https://www.freeiconspng.com/thumbs/pepe-png/hd-pepe-png-transparent-background-4.png",
       "description": "Bitcoin-Testnet-Wallet zum Erstellen, Wiederherstellen und Empfangen.",
       "size_bytes": 3220036,
