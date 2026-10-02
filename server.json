@@ -1,0 +1,25 @@
+{
+  "apps": [
+    {
+      "name": "Sample ZIP Demo",
+      "cover_image": "https://mcdn.wallpapersafari.com/335/81/41/mDOY7h.jpg",
+      "description": "Test-Download für HBA STORE. Enthält Beispielbilder, keine startbare App.",
+      "size_bytes": 1099121,
+      "download_url": "https://de.getsamplefiles.com/download/zip/sample-1.zip"
+    },
+    {
+      "name": "PS5TV",
+      "cover_image": "https://cdn-icons-png.flaticon.com/512/5128/5128439.png",
+      "description": "IPTV-App für die PS5 zum Abspielen von TV-Streams.",
+      "size_bytes": 14591470,
+      "download_url": "https://getsamplefiles.com/download/zip/sample-2.zip"
+    },
+    {
+      "name": "BTC ColdWallet",
+      "cover_image": "https://www.freeiconspng.com/thumbs/pepe-png/hd-pepe-png-transparent-background-4.png",
+      "description": "Bitcoin-Testnet-Wallet zum Erstellen, Wiederherstellen und Empfangen.",
+      "size_bytes": 3220036,
+      "download_url": "https://getsamplefiles.com/download/zip/sample-3.zip"
+    }
+  ]
+}
