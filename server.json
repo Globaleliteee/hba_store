@@ -23,6 +23,22 @@
       "author": "VivaLaVent"
     },
     {
+      "name": "Netflix (EU)",
+      "type": "app",
+      "cover_image": "https://pkg-zone.com/images/PPSA01615/cover.png",
+      "description": "Netflix (EU) for PS5, merged 6.00 build recommended for Netflix-N-Hack. Requires a Store version supporting native PS5 FIH packages.",
+      "size_bytes": 64159486,
+      "download_url": "https://pkg-zone.com/download/ps5/PPSA01615/6.00",
+      "title_id": "PPSA01615",
+      "version": "6.00",
+      "format": "pkg",
+      "status": "available",
+      "supported_by_store": false,
+      "source_page": "https://pkg-zone.com/details/PPSA01615",
+      "store_compatibility": "HBA STORE 01.000.010 supports CNT packages only; this native PS5 FIH package needs an installer update.",
+      "author": "lm"
+    },
+    {
       "name": "Prospero Explorer",
       "type": "app",
       "cover_image": "https://raw.githubusercontent.com/SvenGDK/Prospero-Explorer/v1.0/sce_sys/icon0.png",
