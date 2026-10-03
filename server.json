@@ -247,6 +247,22 @@
       "author": "BlackBearReloaded"
     },
     {
+      "name": "PS5-Xplorer",
+      "type": "app",
+      "cover_image": "https://pkg-zone.com/images/LAPY20011/cover.png",
+      "description": "File manager for the PS5.",
+      "size_bytes": 0,
+      "download_url": "https://pkg-zone.com/download/ps5/LAPY20011/1.05",
+      "title_id": "LAPY20011",
+      "version": "1.05",
+      "format": "pkg",
+      "status": "available",
+      "supported_by_store": false,
+      "source_page": "https://pkg-zone.com/details/LAPY20011",
+      "store_compatibility": "HBA STORE 01.000.010 supports CNT packages only; this package needs an installer update.",
+      "author": "Lapy"
+    },
+    {
       "name": "YouTube (US)",
       "type": "app",
       "cover_image": "https://pkg-zone.com/images/PPSA01650/cover.png",
