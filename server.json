@@ -3,7 +3,15 @@
     "website": "https://homebrew.page/",
     "catalog_url": "https://homebrew.page/catalog/v1.json",
     "catalog_commit": "b5af0c2173586084d1fe21e72cb7905bfabd1045",
-    "snapshot_date": "2026-10-02"
+    "snapshot_date": "2026-10-02",
+    "additional_sources": [
+      {
+        "website": "https://pkg-zone.com/",
+        "catalog_url": "https://pkg-zone.com/?category=&console=ps5&q=",
+        "snapshot_date": "2026-10-03",
+        "entries": 7
+      }
+    ]
   },
   "apps": [
     {
@@ -234,7 +242,7 @@
       "name": "YouTube (US)",
       "type": "app",
       "cover_image": "https://pkg-zone.com/images/PPSA01650/cover.png",
-      "description": "YouTube (US) for PS5 (Y2JB).",
+      "description": "YouTube (US) for Y2JB",
       "size_bytes": 107544576,
       "download_url": "https://pkg-zone.com/download/ps5/PPSA01650/1.03",
       "title_id": "PPSA01650",
@@ -243,7 +251,111 @@
       "status": "available",
       "supported_by_store": true,
       "source_page": "https://pkg-zone.com/details/PPSA01650",
-      "store_compatibility": "Requires JB STORE 01.000.011 or newer with native PS5 FIH package support."
+      "store_compatibility": "Requires JB STORE 01.000.011 or newer.",
+      "author": "lm",
+      "content_id": "UP4381-PPSA01650_00-YOUTUBESIEA00000"
+    },
+    {
+      "name": "Netflix (EU)",
+      "type": "app",
+      "cover_image": "https://pkg-zone.com/images/PPSA01615/cover.png",
+      "description": "PS5 Netflix (EU) app for Netflix-N-Hack",
+      "size_bytes": 93847552,
+      "download_url": "https://pkg-zone.com/download/ps5/PPSA01615/6.00",
+      "title_id": "PPSA01615",
+      "version": "6.00",
+      "format": "pkg",
+      "status": "available",
+      "supported_by_store": true,
+      "source_page": "https://pkg-zone.com/details/PPSA01615",
+      "author": "lm",
+      "content_id": "EP4350-PPSA01615_00-NETFLIXGEMINI001",
+      "store_compatibility": "Requires JB STORE 01.000.011 or newer."
+    },
+    {
+      "name": "Itemzflow Game Manager",
+      "type": "app",
+      "cover_image": "https://pkg-zone.com/images/ITEM00001/cover.png",
+      "description": "Itemzflow is a Free and Open source PS4 home menu alternative\nItemzflow expands the beyond limits of Sony's ShellUI",
+      "size_bytes": 62849024,
+      "download_url": "https://pkg-zone.com/download/ps5/ITEM00001/1.14",
+      "title_id": "ITEM00001",
+      "version": "1.14",
+      "format": "pkg",
+      "status": "available",
+      "supported_by_store": true,
+      "source_page": "https://pkg-zone.com/details/ITEM00001",
+      "author": "LM",
+      "content_id": "IV0002-ITEM00001_00-STOREUPD00000000",
+      "store_compatibility": "Requires JB STORE 01.000.012 or newer."
+    },
+    {
+      "name": "FPKGi",
+      "type": "app",
+      "cover_image": "https://pkg-zone.com/images/PKGI13337/cover.png",
+      "description": "FPKGi is an open-source PKGi clone for PSP, Vita, and PS3, preserving its UI, \nmusic, and features while supporting modern consoles. It handles custom FPKG \ncontent via .json files, making it perfect for game preservation and personal use.",
+      "size_bytes": 85458944,
+      "download_url": "https://pkg-zone.com/download/ps5/PKGI13337/1.10.0",
+      "title_id": "PKGI13337",
+      "version": "1.10.0",
+      "format": "pkg",
+      "status": "available",
+      "supported_by_store": true,
+      "source_page": "https://pkg-zone.com/details/PKGI13337",
+      "author": "ItsJokerZz, Bucanero",
+      "content_id": "ED1633-PKGI13337_00-0000000000000000",
+      "store_compatibility": "Requires JB STORE 01.000.012 or newer."
+    },
+    {
+      "name": "Avatar Changer PS5",
+      "type": "app",
+      "cover_image": "https://pkg-zone.com/images/LAPY20016/cover.png",
+      "description": "Change your profile picture easier than ever",
+      "size_bytes": 64552960,
+      "download_url": "https://pkg-zone.com/download/ps5/LAPY20016/1.00",
+      "title_id": "LAPY20016",
+      "version": "1.00",
+      "format": "pkg",
+      "status": "available",
+      "supported_by_store": true,
+      "source_page": "https://pkg-zone.com/details/LAPY20016",
+      "author": "Lapy",
+      "content_id": "ED1234-LAPY20016_00-0000000000000000",
+      "store_compatibility": "Requires JB STORE 01.000.012 or newer."
+    },
+    {
+      "name": "PS5-Xplorer",
+      "type": "app",
+      "cover_image": "https://pkg-zone.com/images/LAPY20011/cover.png",
+      "description": "File manager for the PS5",
+      "size_bytes": 81264640,
+      "download_url": "https://pkg-zone.com/download/ps5/LAPY20011/1.05",
+      "title_id": "LAPY20011",
+      "version": "1.05",
+      "format": "pkg",
+      "status": "available",
+      "supported_by_store": true,
+      "source_page": "https://pkg-zone.com/details/LAPY20011",
+      "author": "Lapy",
+      "content_id": "ED1234-LAPY20011_00-PS4XPLORER200000",
+      "store_compatibility": "Requires JB STORE 01.000.012 or newer."
+    },
+    {
+      "name": "PS5 Temperature",
+      "type": "app",
+      "cover_image": "https://pkg-zone.com/images/LAPY20012/cover.png",
+      "description": "PS5's APU Temp",
+      "size_bytes": 56360960,
+      "download_url": "https://pkg-zone.com/download/ps5/LAPY20012/1.00",
+      "title_id": "LAPY20012",
+      "version": "1.00",
+      "format": "pkg",
+      "status": "available",
+      "supported_by_store": true,
+      "source_page": "https://pkg-zone.com/details/LAPY20012",
+      "author": "Lapy",
+      "content_id": "ED1234-LAPY20012_00-0000000000000000",
+      "store_compatibility": "Requires JB STORE 01.000.012 or newer."
     }
   ]
 }
