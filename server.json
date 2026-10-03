@@ -2,8 +2,8 @@
   "source": {
     "website": "https://homebrew.page/",
     "catalog_url": "https://homebrew.page/catalog/v1.json",
-    "catalog_commit": "e68bb2f456f1940650b60cf3d120ff70ff11e552",
-    "snapshot_date": "2026-10-03"
+    "catalog_commit": "b5af0c2173586084d1fe21e72cb7905bfabd1045",
+    "snapshot_date": "2026-10-02"
   },
   "apps": [
     {
@@ -21,22 +21,6 @@
       "source_page": "https://homebrew.page/app/PPSA99420/",
       "sha256": "2cd23e79295291ce065e1bc986fd055e6340267a9b946ed8f7e6018f3c33f016",
       "author": "VivaLaVent"
-    },
-    {
-      "name": "Netflix (EU)",
-      "type": "app",
-      "cover_image": "https://pkg-zone.com/images/PPSA01615/cover.png",
-      "description": "Netflix (EU) for PS5, merged 6.00 build recommended for Netflix-N-Hack. Requires a Store version supporting native PS5 FIH packages.",
-      "size_bytes": 64159486,
-      "download_url": "https://pkg-zone.com/download/ps5/PPSA01615/6.00",
-      "title_id": "PPSA01615",
-      "version": "6.00",
-      "format": "pkg",
-      "status": "available",
-      "supported_by_store": false,
-      "source_page": "https://pkg-zone.com/details/PPSA01615",
-      "store_compatibility": "HBA STORE 01.000.010 supports CNT packages only; this native PS5 FIH package needs an installer update.",
-      "author": "lm"
     },
     {
       "name": "Prospero Explorer",
@@ -250,7 +234,7 @@
       "name": "YouTube (US)",
       "type": "app",
       "cover_image": "https://pkg-zone.com/images/PPSA01650/cover.png",
-      "description": "YouTube (US) for PS5 (Y2JB). Requires a Store version supporting native PS5 FIH packages.",
+      "description": "YouTube (US) for PS5 (Y2JB).",
       "size_bytes": 107544576,
       "download_url": "https://pkg-zone.com/download/ps5/PPSA01650/1.03",
       "title_id": "PPSA01650",
@@ -259,39 +243,7 @@
       "status": "available",
       "supported_by_store": true,
       "source_page": "https://pkg-zone.com/details/PPSA01650",
-      "store_compatibility": "HBA STORE 01.000.010 supports CNT packages only; this native PS5 FIH package needs an installer update."
-    },
-    {
-      "name": "EVO Player",
-      "type": "app",
-      "cover_image": "https://raw.githubusercontent.com/sainsaji/EVO-PLAYER-PS5/v0.10.0/projects/evoplayer/sce_sys/icon0.png",
-      "description": "Media player for PS5 that plays video from USB or internal storage, with hardware decoding up to 4K, 10-bit HDR and surround audio.",
-      "size_bytes": 7544576,
-      "download_url": "https://github.com/sainsaji/EVO-PLAYER-PS5/releases/download/v0.10.0/EVOPlayer-v0.10.0-PPSA99039.ffpfsc",
-      "title_id": "PPSA99039",
-      "version": "0.10.0",
-      "format": "ffpfsc",
-      "status": "available",
-      "supported_by_store": true,
-      "source_page": "https://homebrew.page/app/PPSA99039/",
-      "sha256": "a2b14616a2662a5e8401aad9012ba1c0d3df68211e5b70039eedfb9a0845a0be",
-      "author": "Sain Saji"
-    },
-    {
-      "name": "PS5-Xplorer",
-      "type": "app",
-      "cover_image": "https://pkg-zone.com/images/LAPY20011/cover.png",
-      "description": "File manager for the PS5.",
-      "size_bytes": 7544576,
-      "download_url": "https://pkg-zone.com/download/ps5/LAPY20011/1.05",
-      "title_id": "LAPY20011",
-      "version": "1.05",
-      "format": "pkg",
-      "status": "available",
-      "supported_by_store": true,
-      "source_page": "https://pkg-zone.com/details/LAPY20011",
-      "store_compatibility": "HBA STORE 01.000.010 supports CNT packages only; this native PS5 package needs installer support.",
-      "author": "Lapy"
+      "store_compatibility": "Requires JB STORE 01.000.011 or newer with native PS5 FIH package support."
     }
   ]
 }
