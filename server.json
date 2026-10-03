@@ -257,7 +257,7 @@
       "version": "1.03",
       "format": "pkg",
       "status": "available",
-      "supported_by_store": false,
+      "supported_by_store": true,
       "source_page": "https://pkg-zone.com/details/PPSA01650",
       "store_compatibility": "HBA STORE 01.000.010 supports CNT packages only; this native PS5 FIH package needs an installer update."
     },
@@ -272,7 +272,7 @@
       "version": "0.10.0",
       "format": "ffpfsc",
       "status": "available",
-      "supported_by_store": false,
+      "supported_by_store": true,
       "source_page": "https://homebrew.page/app/PPSA99039/",
       "sha256": "a2b14616a2662a5e8401aad9012ba1c0d3df68211e5b70039eedfb9a0845a0be",
       "author": "Sain Saji"
@@ -288,7 +288,7 @@
       "version": "1.05",
       "format": "pkg",
       "status": "available",
-      "supported_by_store": false,
+      "supported_by_store": true,
       "source_page": "https://pkg-zone.com/details/LAPY20011",
       "store_compatibility": "HBA STORE 01.000.010 supports CNT packages only; this native PS5 package needs installer support.",
       "author": "Lapy"
