@@ -257,7 +257,7 @@
       "version": "1.05",
       "format": "pkg",
       "status": "available",
-      "supported_by_store": false,
+      "supported_by_store": true,
       "source_page": "https://pkg-zone.com/details/LAPY20011",
       "store_compatibility": "HBA STORE 01.000.010 supports CNT packages only; this package needs an installer update.",
       "author": "Lapy"
